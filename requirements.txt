@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+pymongo[srv]
+certifi
+Pillow
+qrcode
